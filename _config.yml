@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuanyuan Shi / Homepage"
+title                    : "Yu Yang / Homepage"
 title_separator          : "-"
 name                     : &name "Yuanyuan Shi"
 description              : &description "personal description"
-url                      : "https://yuanyuan-shi.github.io/website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yangyu-berkeley.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yuanyuan-Shi/website"
+repository               : "YangYu/website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
