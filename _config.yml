@@ -80,24 +80,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanyuan Shi"
+  name             : "Yu Yang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, Electrical and Computer Engineering University of Washington"
+  bio              : "Research Fellow, Berkeley Education Alliance for Research in Singapore (BEARS), University of California"
   location         : #"185 East Stevens Way NE, Seattle"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=XkrVZrwAAAAJ&hl=en"
-  email            : "yyshi@uw.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Glu9hZUAAAAJ&view_op=list_works&citft=2&email_for_op=yu.yang%40bears-berkeley.sg&gmla=AJsN-F4W36kviy2kSDW4v7Xphvfce1wKDGTj3KNqknZBD-j3MT1tdyxE4xL3SbuUdmqttK7MYu7pQ2b5ZYm9R2i-oYqrS4EF7eEqgR8k7ws6n6_m8j7kMmgexkAjJJ1bAq5bpG4JEi8kAt65qYOQGJQA8OI9tJomctchTRPQ6GhlIzgXLHUuO_4mUSrRx7B8X6I8sRhr6XcEEz9XcDUMSRF1F5WsZsS4kOFheK5KGQNjlxO_lxDGd1WyURD9_JZ-TDIoh0yDBIp6"
+  email            : "yu.yang@bears-berkeley.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  home             : "http://shiyuanyuan.site/" # null (default), "absolute or relative url to link to author home"
+  home             : "http://yangyu.site/" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yuanyuan-Shi"
+  github           : "Yu-Yang"
   google_plus      :
   keybase          :
   instagram        :
