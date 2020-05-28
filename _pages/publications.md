@@ -14,7 +14,7 @@ You can also find all my articles on my [Google Scholar Page](https://scholar.go
 
 2. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings,'' conditionally accepted by IEEE Transactions on Control Systems Technology, 2020, [arxiv preprint](https://arxiv.org/pdf/1911.00840.pdf).
 
-3. Yu Yang, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to IEEE Transactions on Control Systems Technology, under the 2rd round peer review, 2020, [arxiv preprint.(https://arxiv.org/pdf/2003.08208.pdf).
+3. Yu Yang, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to IEEE Transactions on Control Systems Technology, under the 2rd round peer review, 2020, [arxiv preprint](https://arxiv.org/pdf/2003.08208.pdf).
 
 4. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020, [arxiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
 
