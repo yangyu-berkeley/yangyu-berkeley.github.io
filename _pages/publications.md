@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can also find all my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Glu9hZUAAAAJ&view_op=list_works&citft=2&email_for_op=yu.yang%40bears-berkeley.sg&gmla=AJsN-F4W36kviy2kSDW4v7Xphvfce1wKDGTj3KNqknZBD-j3MT1tdyxE4xL3SbuUdmqttK7MYu7pQ2b5ZYm9R2i-oYqrS4EF7eEqgR8k7ws6n6_m8j7kMmgexkAjJJ1bAq5bpG4JEi8kAt65qYOQGJQA8OI9tJomctchTRPQ6GhlIzgXLHUuO_4mUSrRx7B8X6I8sRhr6XcEEz9XcDUMSRF1F5WsZsS4kOFheK5KGQNjlxO_lxDGd1WyURD9_JZ-TDIoh0yDBIp6)
+You can also find all my articles on my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=Glu9hZUAAAAJ&view_op=list_works&citft=2&email_for_op=yu.yang%40bears-berkeley.sg&gmla=AJsN-F4W36kviy2kSDW4v7Xphvfce1wKDGTj3KNqknZBD-j3MT1tdyxE4xL3SbuUdmqttK7MYu7pQ2b5ZYm9R2i-oYqrS4EF7eEqgR8k7ws6n6_m8j7kMmgexkAjJJ1bAq5bpG4JEi8kAt65qYOQGJQA8OI9tJomctchTRPQ6GhlIzgXLHUuO_4mUSrRx7B8X6I8sRhr6XcEEz9XcDUMSRF1F5WsZsS4kOFheK5KGQNjlxO_lxDGd1WyURD9_JZ-TDIoh0yDBIp6)
 
 ### Preprints
 
@@ -18,15 +18,15 @@ You can also find all my articles on my [Google Scholar](https://scholar.google.
 
 4. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020. [Arxiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
 
-### Journal Papers
+### Selected Journal Papers
 
-1. Yuanyuan Shi, Bolun Xu, Yushi Tan, Daniel Kirschen, and Baosen Zhang, ["Optimal Battery Control Under Cycle Aging Mechanisms in Pay for Performance Settings''](https://ieeexplore.ieee.org/abstract/document/8449100), IEEE Transactions on Automatic Control, 2019. [[PDF]](https://arxiv.org/pdf/1709.05715.pdf) [[Code]](https://drive.google.com/file/d/1LNoaSbdMlIJ5RucSjCLRBmrBmqaQ0jfS/view?usp=sharing)
+1. Yu Yang , Qing-Shan Jia, Xiaohong Guan, Xuan Zhang, Zhifeng Qiu, and Geert Deconinck, “Decentralized EV-based Charging Optimization With Building Integrated Wind Energy,” IEEE Transactions on Automation Science and Engineering , vol. 16, no. 3, pp. 1002-1017, 2019.[[Download](https://ieeexplore.ieee.org/abstract/document/8467498)]
 
-2. Bolun Xu, Yuanyuan Shi, Daniel Kirschen, and Baosen Zhang, ["Optimal Battery Participation in Frequency Regulation Markets"](https://ieeexplore.ieee.org/document/8383984), IEEE Transactions on Power Systems, 2018. [[PDF]](https://arxiv.org/pdf/1710.10514.pdf) [[Code]](https://drive.google.com/file/d/1NS_dURp4K211zeNiInDYId97VMNwDry1/view?usp=sharing)
+2. Yu Yang, Qing-Shan Jia, Geert Deconinck, Xiaohong Guan, Zhifeng Qiu, and Zechun Hu, “Distributed Coordination of EV Charging with Renewable Energy in a Microgrid of Buildings,” IEEE Transactions on Smart Grid , vol. 9, no. 6, pp. 6253-6264, 2018. [[Download](https://ieeexplore.ieee.org/document/7932529)]
 	
-3. Yuanyuan Shi, Bolun Xu, Di Wang, and Baosen Zhang, ["Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains''](https://ieeexplore.ieee.org/document/8027056), IEEE Transactions on Power Systems, 2017. [[PDF]](https://arxiv.org/pdf/1702.08065.pdf) [[Code]](https://drive.google.com/file/d/18xUOAi9tDGbPQ9hq5nz9ZvaHVgJzVb4M/view?usp=sharing)
+3. Qing-Shan Jia, Yu Yang , Li Xia, and Xiaohong Guan, “A Tutorial on Event-Based Optimization With Application in Energy Internet,” Control Theory & Applications , vo. 35, no. 1, pp. 32-40, 2018 (in Chinese). ([Download](https://yangyu-bears-berkeley.github.io/pdf/J3.pdf))
 
-4. Luowei Zhou, Yuanyuan Shi, Jiangliu Wang, and Pei Yang, ["A Balanced Heuristic Mechanism for Multirobot Task Allocation of Intelligent Warehouses''](https://www.hindawi.com/journals/mpe/2014/380480/), Journal of Mathematical Problems in Engineering, 2014. [[PDF]](http://downloads.hindawi.com/journals/mpe/2014/380480.pdf)
+
 
 ### Conference Papers
 
