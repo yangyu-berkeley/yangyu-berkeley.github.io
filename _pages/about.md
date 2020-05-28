@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Scholar with Berkeley Education Alliance for Research in Singapore (BEARS), University of California.  I am now working with Prof. [Costas J. Spanos] (https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html) (UC Berkeley) and Prof. [Guoqing Hu] (https://www.ntu.edu.sg/home/gqhu/) (Nanyang Technological University) for the [Singapore-Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBest)]( https://sinberbest.berkeley.edu/), a National Research Foundation (NRF) of Singapore and headed by Prof. [Costas J. Spanos](https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html) since 2012. 
+I am currently a Postdoctoral Scholar with Berkeley Education Alliance for Research in Singapore (BEARS), University of California.  I am now working with Prof. [Costas J. Spanos](https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html) (UC Berkeley) and Prof. [Guoqing Hu](https://www.ntu.edu.sg/home/gqhu/) (Nanyang Technological University) for the [Singapore-Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBest)](https://sinberbest.berkeley.edu/), a National Research Foundation (NRF) of Singapore and headed by Prof. [Costas J. Spanos](https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html) since 2012. 
 
 I obtained my PhD in the Department of Automation, [Tsinghua University]( https://www.tsinghua.edu.cn/en/index.htm), Beijing, China in 2018. I was lucky to be advised by Prof. [Xiaohong Guan] (http://cfins.au.tsinghua.edu.cn/personalhg/xhguan/) and Prof. [(Samual) Qing-Shan Jia]( https://yangyu-bears-berkeley.github.io/bio.html).  
  
