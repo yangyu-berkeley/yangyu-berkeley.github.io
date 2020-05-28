@@ -10,7 +10,7 @@ author_profile: true
  My researches are mainly around developing <b> adaptive and scalable </b> algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
 My research topics have stretched the following areas:
   <p><ul>
-    <li> <p>Decentralize or distributed convex or nonconvex optimization, decentralized decision-making </p></li>
+    <li> <p>Decentralize convex or nonconvex optimization, decentralized decision-making </p></li>
     <li> <p> Event-based optimization </p></li>
     <li> <p> Stochastic optimization, Markov decision process, reinforcement learning </p></li>
     <li> <p> Data-driven analysis and control. </p></li>
