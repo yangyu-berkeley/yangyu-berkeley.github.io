@@ -15,8 +15,14 @@ I obtained my PhD in the Department of Automation, [Tsinghua University]( https:
 I got my BS in School of school of Artificial Intelligence and Automation, [Huazhong University of Science and Technology]( http://english.hust.edu.cn/), Wuhan, China in 2013 and was promoted to Tsinghua University as a doctoral candidate.
  
 
-My research interests are in area of cyber-physical and energy systems, from the perspective of machine learning, optimization, and control.
-During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental, societal-scale insights in data-driven control systems. My work has been applied by Microsoft, Doosan Gridtech, Centrica, JD.com and DeepMind. 
+My research are mainly around developing algorithmic solutions for the control and optimization of large-scale dynamic networked system in virtue of reinforcement learning, stochastic optimization, decentralized optimization and  data-driven analysis techniques, with their applications to smart grids, smart buildings, and cyber-physical systems. 
+
+I also have strong interest in game theory (noncooperative game, coalition game), transactive energy or transactive control and market design mechanisms with their application to build a flexible, adaptive, reliable and sustainable energy system. 
+
+I am also interested in developing or enhancing basic theories from research topics, and exploring their extensions to other areas.
+
+I am alwayss passionate with new theories or theories in different realms and their integration and interdisciplinary to provide better solution for the practical problems.
+ 
 
 News
 ======
