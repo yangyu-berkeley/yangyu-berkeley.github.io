@@ -10,21 +10,21 @@ You can also find all my articles on my [Google Scholar Page](https://scholar.go
 
 ### Preprints
 
-1. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "HVAC Energy Cost Optimization for a Multi-zone Building via A Decentralized Approach,'' accepted by IEEE Transactions on Automation Science and Engineering, 2020, [arXiv preprint](https://arxiv.org/pdf/1905.10934.pdf). 
+1. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "HVAC Energy Cost Optimization for a Multi-zone Building via A Decentralized Approach,'' accepted by <i>IEEE Transactions on Automation Science and Engineering</i>, 2020, [arXiv preprint](https://arxiv.org/pdf/1905.10934.pdf). 
 
-2. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings,'' conditionally accepted by IEEE Transactions on Control Systems Technology, 2020, [arxiv preprint](https://arxiv.org/pdf/1911.00840.pdf).
+2. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings,'' conditionally accepted by <i>IEEE Transactions on Control Systems Technology</i>, 2020, [arxiv preprint](https://arxiv.org/pdf/1911.00840.pdf).
 
-3. Yu Yang, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to IEEE Transactions on Control Systems Technology, under the 2rd round peer review, 2020, [arxiv preprint](https://arxiv.org/pdf/2003.08208.pdf).
+3. <b>Yu Yang</b>, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to <i>IEEE Transactions on Control Systems Technology</i>, under the 2rd round peer review, 2020, [arxiv preprint](https://arxiv.org/pdf/2003.08208.pdf).
 
-4. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020, [arxiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
+4. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020, [arxiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
 
 ### Selected Journal Papers
 
-1. Yu Yang , Qing-Shan Jia, Xiaohong Guan, Xuan Zhang, Zhifeng Qiu, and Geert Deconinck, “Decentralized EV-based Charging Optimization With Building Integrated Wind Energy,” IEEE Transactions on Automation Science and Engineering , vol. 16, no. 3, pp. 1002-1017, 2019.[[Download](https://ieeexplore.ieee.org/abstract/document/8467498)]
+1. <b>Yu Yang</b> , Qing-Shan Jia, Xiaohong Guan, Xuan Zhang, Zhifeng Qiu, and Geert Deconinck, "Decentralized EV-based Charging Optimization With Building Integrated Wind Energy,'' <i>IEEE Transactions on Automation Science and Engineering</i>, vol. 16, no. 3, pp. 1002-1017, 2019.[[Download](https://ieeexplore.ieee.org/abstract/document/8467498)]
 
-2. Yu Yang, Qing-Shan Jia, Geert Deconinck, Xiaohong Guan, Zhifeng Qiu, and Zechun Hu, “Distributed Coordination of EV Charging with Renewable Energy in a Microgrid of Buildings,” IEEE Transactions on Smart Grid , vol. 9, no. 6, pp. 6253-6264, 2018. [[Download](https://ieeexplore.ieee.org/document/7932529)]
+2. <b>Yu Yang</b>, Qing-Shan Jia, Geert Deconinck, Xiaohong Guan, Zhifeng Qiu, and Zechun Hu, "Distributed Coordination of EV Charging with Renewable Energy in a Microgrid of Buildings,'' <i>IEEE Transactions on Smart Grid</i>, vol. 9, no. 6, pp. 6253-6264, 2018. [[Download](https://ieeexplore.ieee.org/document/7932529)]
 	
-3. Qing-Shan Jia, Yu Yang , Li Xia, and Xiaohong Guan, “A Tutorial on Event-Based Optimization With Application in Energy Internet,” Control Theory & Applications , vo. 35, no. 1, pp. 32-40, 2018 (in Chinese). ([Download](https://yangyu-bears-berkeley.github.io/pdf/J3.pdf))
+3. Qing-Shan Jia, <b>Yu Yang</b>, Li Xia, and Xiaohong Guan, ''A Tutorial on Event-Based Optimization With Application in Energy Internet,'' <i> Control Theory & Applications</i>, vo. 35, no. 1, pp. 32-40, 2018 (in Chinese). ([Download](https://yangyu-bears-berkeley.github.io/pdf/J3.pdf))
 
 
 
