@@ -10,7 +10,7 @@ You can also find all my articles on my [Google Scholar Page](https://scholar.go
 
 ### Preprints
 
-1. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "HVAC Energy Cost Optimization for a Multi-zone Building via A Decentralized Approach,'' accepted by IEEE Transactions on Automation Science and Engineering, 2020, [arXiv preprint](https://arxiv.org/pdf/1905.10934.pdf). 
+1. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "HVAC Energy Cost Optimization for a Multi-zone Building via A Decentralized Approach,'' accepted by IEEE Transactions on Automation Science and Engineering, 2020, [arXiv preprint](https://arxiv.org/pdf/1905.10934.pdf). 
 
 2. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings,'' conditionally accepted by IEEE Transactions on Control Systems Technology, 2020, [arxiv preprint](https://arxiv.org/pdf/1911.00840.pdf).
 
