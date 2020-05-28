@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-
+<h> Research Interests</h>
  My researches are mainly around developing <b> adaptive and scalable </b> algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
 My researches have stretched various theories and techniques, in particular,  
   <p><ul>
@@ -20,6 +20,8 @@ My researches have stretched various theories and techniques, in particular,
  
  I am also interested in developing or enhancing theories from practical problems and exploring their extensions to other areas. 
 
+
+<h> Projects</h>
 {% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
