@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-<h> Research Interests</h>
-<p> My researches are mainly around developing <b> adaptive and scalable </b> algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
+
+ My researches are mainly around developing <b> adaptive and scalable </b> algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
 My researches have stretched various theories and techniques, in particular,  
   <p><ul>
     <li> <p>Decentralize convex or nonconvex optimization, decentralized decision-making </p></li>
@@ -20,9 +20,10 @@ My researches have stretched various theories and techniques, in particular,
  
  I am also interested in developing or enhancing theories from practical problems and exploring their extensions to other areas. 
 
-</p>
 
-<h> Projects</h>
+More inormation about my projects can be found below!
+
+
 {% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
