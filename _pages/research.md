@@ -16,7 +16,7 @@ My researches have stretched various theories and techniques, in particular,
     <li> <p> Data-driven analysis and control. </p></li>
     </ul>
 </p>
- I also have strong interest in game theory (noncooperative game, coalition game), transactive energy or transactive control, and market design for future deregulated energy market. I'm also open to new theories and always looking for exciting research problems.
+ I also have strong interest in <b>game theory (noncooperative game, coalition game), transactive energy or transactive control and market design mechanisms </b>with their application to build a flexible, adaptive, reliable and sustainable energy system.
 
 {% for post in site.research %}
   {% include archive-single.html %}
