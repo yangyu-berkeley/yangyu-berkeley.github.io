@@ -8,7 +8,7 @@ author_profile: true
 
 
  My researches are mainly around developing <b> adaptive and scalable </b> algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
-My research topics have stretched the following areas:
+My researches have stretched the various theories and techniques, such as 
   <p><ul>
     <li> <p>Decentralize convex or nonconvex optimization, decentralized decision-making </p></li>
     <li> <p> Event-based optimization </p></li>
