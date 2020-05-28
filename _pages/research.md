@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-During my Ph.D. study and my first career as a research fellow, I have mainly focused on developing adaptive and scalable control methods for large-scale dynamic networked systems, such as smart buildings, smart grids and cyber physical systems. 
+During my Ph.D. study and my first career as a research fellow, My researches are mainly around developing adaptive and scalable algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
 My research topics have stretched the following areas:
   <p><ul>
     <li> <p>Decentralize or distributed convex or nonconvex optimization, decentralized decision-making </p></li>
