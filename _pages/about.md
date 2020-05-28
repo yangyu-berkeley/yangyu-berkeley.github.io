@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Washington, advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/). 
+I am currently a Postdoctoral Scholar with Berkeley Education Alliance for Research in Singapore (BEARS), University of California.  I am now working with Prof. [Costas J. Spanos] (https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html) (UC Berkeley) and Prof. [Guoqing Hu] (https://www.ntu.edu.sg/home/gqhu/) (Nanyang Technological University) for the [Singapore-Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBest)]( https://sinberbest.berkeley.edu/), a National Research Foundation (NRF) of Singapore and headed by Prof. [Costas J. Spanos](https://www2.eecs.berkeley.edu/Faculty/Homepages/spanos.html) since 2012. 
+
+I obtained my PhD in the Department of Automation, [Tsinghua University]( https://www.tsinghua.edu.cn/en/index.htm), Beijing, China in 2018. I was lucky to be advised by Prof. [Xiaohong Guan] (http://cfins.au.tsinghua.edu.cn/personalhg/xhguan/) and Prof. [(Samual) Qing-Shan Jia]( https://yangyu-bears-berkeley.github.io/bio.html).  
+ 
+I got my BS in School of school of Artificial Intelligence and Automation, [Huazhong University of Science and Technology]( http://english.hust.edu.cn/), Wuhan, China in 2013 and was promoted to Tsinghua University as a doctoral candidate.
+ 
 
 My research interests are in area of cyber-physical and energy systems, from the perspective of machine learning, optimization, and control.
 During my Ph.D. studies, I developed algorithms for controlling and optimizing resources in energy systems and discovered fundamental, societal-scale insights in data-driven control systems. My work has been applied by Microsoft, Doosan Gridtech, Centrica, JD.com and DeepMind. 
