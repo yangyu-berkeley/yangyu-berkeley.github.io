@@ -6,15 +6,17 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can also find all my articles on my [Google Scholar](https://scholar.google.com/citations?user=XkrVZrwAAAAJ&hl=en)
+You can also find all my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Glu9hZUAAAAJ&view_op=list_works&citft=2&email_for_op=yu.yang%40bears-berkeley.sg&gmla=AJsN-F4W36kviy2kSDW4v7Xphvfce1wKDGTj3KNqknZBD-j3MT1tdyxE4xL3SbuUdmqttK7MYu7pQ2b5ZYm9R2i-oYqrS4EF7eEqgR8k7ws6n6_m8j7kMmgexkAjJJ1bAq5bpG4JEi8kAt65qYOQGJQA8OI9tJomctchTRPQ6GhlIzgXLHUuO_4mUSrRx7B8X6I8sRhr6XcEEz9XcDUMSRF1F5WsZsS4kOFheK5KGQNjlxO_lxDGd1WyURD9_JZ-TDIoh0yDBIp6)
 
 ### Preprints
 
-1. Yuanyuan Shi, Baosen Zhang, ["Learning in Cournot Games with Limited Information Feedback''](https://arxiv.org/abs/1906.06612), arXiv Preprint. 
+1. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "HVAC Energy Cost Optimization for a Multi-zone Building via A Decentralized Approach,'' accepted by IEEE Transactions on Automation Science and Engineering, 2020. [ArXiv preprint](https://arxiv.org/pdf/1905.10934.pdf). 
 
-2. Yuanyuan Shi, Meng Qi, Chenxin Ma, Rong Yuan, Di Wu, and Zuojun (Max) Shen, "A Practical End-to-End Inventory Management Model with Deep Learning'', submitted to Management Science.
+2. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings'', conditionally accepted by IEEE Transactions on Control Systems Technology, 2020. [Arxiv preprint](https://arxiv.org/pdf/1911.00840.pdf)
 
-3. Yize Chen, Yuanyuan Shi, and Bao Zhang, "Data-Driven Optimal Voltage Regulation'', submitted to Power Systems Computation Conference (PSCC), 2020. 
+3. Yu Yang, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to IEEE Transactions on Control Systems Technology, under the 2rd round peer review, 2020. [Arxiv preprint](https://arxiv.org/pdf/2003.08208.pdf).
+
+4. Yu Yang, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020. [Arxiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
 
 ### Journal Papers
 
