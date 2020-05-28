@@ -18,7 +18,7 @@ My researches have stretched various theories and techniques, in particular,
 </p>
  I also have strong interest in <b>game theory (noncooperative game, coalition game), transactive energy or transactive control and market design mechanisms </b>with their application to build a flexible, adaptive, reliable and sustainable energy system.
  
- I am also interested in developing or enhancing basic theories from research topics and exploring their extensions to other areas. 
+ I am also interested in developing or enhancing theories from practical problems and exploring their extensions to other areas. 
 
 {% for post in site.research %}
   {% include archive-single.html %}
