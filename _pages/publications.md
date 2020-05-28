@@ -12,11 +12,11 @@ You can also find all my articles on my [Google Scholar Page](https://scholar.go
 
 1. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "HVAC Energy Cost Optimization for a Multi-zone Building via A Decentralized Approach,'' accepted by <i>IEEE Transactions on Automation Science and Engineering</i>, 2020, [arXiv preprint](https://arxiv.org/pdf/1905.10934.pdf). 
 
-2. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings,'' conditionally accepted by <i>IEEE Transactions on Control Systems Technology</i>, 2020, [arxiv preprint](https://arxiv.org/pdf/1911.00840.pdf).
+2. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "Stochastic Optimal Control of HVAC system for Energy-efficient Buildings,'' conditionally accepted by <i>IEEE Transactions on Control Systems Technology</i>, 2020, [arXiv preprint](https://arxiv.org/pdf/1911.00840.pdf).
 
-3. <b>Yu Yang</b>, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to <i>IEEE Transactions on Control Systems Technology</i>, under the 2rd round peer review, 2020, [arxiv preprint](https://arxiv.org/pdf/2003.08208.pdf).
+3. <b>Yu Yang</b>, Seshadhri Srinivasan, Guoqiang Hu, and Costas J. Spanos, "Distributed Control of Multi-zone HVAC Systems Considering Indoor Air Quality'' submitted to <i>IEEE Transactions on Control Systems Technology</i>, under the 2rd round peer review, 2020, [arXiv preprint](https://arxiv.org/pdf/2003.08208.pdf).
 
-4. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020, [arxiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
+4. <b>Yu Yang</b>, Guoqiang Hu, and Costas J. Spanos, "A Proximal Linearization-based Decentralized Method for Nonconvex Problems with Nonlinear Constraints,'' under submission, 2020, [arXiv preprint](https://arxiv.org/pdf/2001.00767.pdf).
 
 ### Selected Journal Papers
 
@@ -30,18 +30,8 @@ You can also find all my articles on my [Google Scholar Page](https://scholar.go
 
 ### Conference Papers
 
-1. Daniel J. Mankowitz, Nir Levine, Rae Jeong, Abbas Abdolmaleki, Jost Tobias Springenberg, Yuanyuan Shi, Jackie Kay, Todd Hester, Timothy Mann, Martin Riedmiller, ["Robust Reinforcement Learning for Continuous Control with Model Misspecification''](https://openreview.net/forum?id=HJgC60EtwB), International Conference on Learning Representations (ICLR), 2020. [[PDF]](https://openreview.net/forum?id=HJgC60EtwB)
-	
-2. Yuanyuan Shi, Kai Xiao, Daniel J. Mankowitz, Rae Jeong, Nir Levine, Sven Gowal, Timothy Mann, and Todd Hester, ["Data-Driven Robust Reinforcement Learning for Continuous Control''](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view), Safety and Robustness in Decision Making Workshop, Neural Information Processing Systems (NeurIPS), 2019. [[PDF]](https://drive.google.com/file/d/0B3mY6u_lryzddkRrQ0xzQWtpemRUSHBnZ2NHMnctS1B5b01J/view) [[Poster]](https://drive.google.com/file/d/1OSd4GnrEluGX_Vwx8HChREavtdTQTCde/view?usp=sharing)
-	
-3. Kai Xiao, Sven Gowal, Todd Hester, Rae Jeong, Daniel J. Mankowitz, Yuanyuan Shi, and T.W. Weng, ["Learning Neural Dynamics Simulators With Adversarial Specification Training''](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view), Safety and Robustness in Decision Making Workshop, Neural Information Processing Systems (NeurIPS), 2019. [[PDF]](https://drive.google.com/file/d/0B3mY6u_lryzdWWVxZ2pYZ1dINUQ3WUEwSHlkWnNSZDh5THVj/view) [[Poster]](https://drive.google.com/file/d/1Kz8ZIxa6z3TQCLK6nSE1IyZqb8muwp42/view?usp=sharing)
+1. <b>Yu Yang</b>, Qing-Shan Jia, and Xiaohong Guan, "Stochastic Coordination of Aggregated Electric Vehicle Charging With On-site Wind Power at Multiple Buildings,'' <i>56th IEEE Conference on Decision and Control</i>(CDC), Melbourne, Australia, Dec. 12-15, 2017, pp. 4434-4439. [[Download](https://ieeexplore.ieee.org/abstract/document/8264313)]
 
-4. Yize Chen\*, Yuanyuan Shi\*, and Baosen Zhang, ["Optimal Control Via Neural Networks: A Convex Approach''](https://openreview.net/forum?id=H1MW72AcK7), International Conference on Learning Representations (ICLR), 2019.  (*equal contribution). [[PDF]](https://arxiv.org/pdf/1805.11835.pdf) [[Code]](https://github.com/chennnnnyize/Optimal-Control-via-Neural-Networks)
-	
-5. Yuanyuan Shi, Bolun Xu, Yushi Tan, and Baosen Zhang, ["A convex cycle-based degradation model for battery energy storage planning and operation''](https://ieeexplore.ieee.org/document/8431814), American Control Conference (ACC), 2018  [[PDF]](https://arxiv.org/pdf/1703.07968.pdf)
-	
-6. Bolun Xu, Yuanyuan Shi, Daniel Kirschen, and Baosen Zhang, ["Optimal regulation response of batteries under cycle aging mechanisms”](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8263750), IEEE Conference on Decision and Control (CDC), 2017  [[PDF]](https://arxiv.org/pdf/1703.07824.pdf)
-	
-7. Yize Chen, Yuanyuan Shi, and Baosen Zhang. ["Modeling and Optimization of Complex Building Energy Systems with Deep Neural Networks''](https://arxiv.org/abs/1711.02278), Asilomar Conference, 2017. [[PDF]](https://arxiv.org/pdf/1711.02278.pdf)
-	
-8. Yuanyuan Shi, Bolun Xu, Baosen Zhang, and Di Wang, ["Leveraging energy storage to optimize data center electricity cost in emerging power markets"](https://arxiv.org/abs/1606.01536), Seventh International Conference on Future Energy Systems, ACM (e-Energy), 2016.  [[PDF]](https://arxiv.org/pdf/1606.01536.pdf)
+2. <b>Yu Yang</b>, Qing-Shan Jia, and Xiaohong Guan, "The joint scheduling of EV charging load with building mounted wind power using simulation-based policy improvement,'' <i>IEEE International Symposium on Flexible Automation</i>(ISFA), Cleveland, Ohio, USA, Aug. 1-3, 2016, pp. 165-170. [[Download](https://ieeexplore.ieee.org/document/7790154)]
+
+3. <b>Yu Yang</b>, Qing-Shan Jia, and Xiaohong Guan, "Improving the Prediction Accuracy of Building Energy Consumption using Location of Occupant-A Case Study,'' <i>IEEE International Conference on Industrial Technology</i>(ICIT), Taipei, China, Mar. 14-17, 2016, pp.1550-1555. [[Download](https://ieeexplore.ieee.org/document/7474991)]
