@@ -3,8 +3,8 @@ main:
   - title: "Publication"
     url: /publications/
 
-   #- title: "Termss"
-    # url: /terms/
+   #- title: "Talks"
+    # url: /talk/
 
   - title: "Research"
     url: /research/
@@ -17,3 +17,6 @@ main:
 
   - title: "Contact"
     url: /contact/
+    
+      - title: "Teaching"
+      url: /teaching/
