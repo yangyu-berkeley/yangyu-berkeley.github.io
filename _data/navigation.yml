@@ -18,5 +18,5 @@ main:
   - title: "Contact"
     url: /contact/
     
-   #- title: "Teaching"
-     # url: teaching.html
+   - title: "Teaching"
+      url: /contact/
