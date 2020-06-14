@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
-title: "About"
-excerpt: "About me"
+title: "Terms"
+excerpt: "Terms"
 author_profile: true
 redirect_from:
   - /terms/
