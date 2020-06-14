@@ -18,5 +18,5 @@ main:
   - title: "Contact"
     url: /contact/
     
-- title: "Post"
-  url: /post/
+ - title: "Post"
+  url: /contact/
