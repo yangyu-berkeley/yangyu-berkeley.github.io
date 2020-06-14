@@ -13,9 +13,7 @@ My researches have stretched various theories and techniques, in particular,
   * Event-based optimization 
   * Stochastic optimization, Markov decision process, reinforcement learning 
   * Data-driven analysis and control. 
- abs
-
-
+ 
  I also have strong interest in <b>game theory (noncooperative game, coalition game), transactive energy or transactive control and market design mechanisms </b>with their application to build a flexible, adaptive, reliable and sustainable energy system.
  I am also interested in developing or enhancing theories from practical problems and exploring their extensions to other areas. 
 More inormation about my projects can be found below!
