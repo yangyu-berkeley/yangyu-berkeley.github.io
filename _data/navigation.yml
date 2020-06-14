@@ -3,11 +3,10 @@ main:
   - title: "Publication"
     url: /publications/
 
-   - title: "Termss"
-     url: /terms/
+   #- title: "Termss"
+    # url: /terms/
 
   - title: "Research"
-    #url: /terms/
     url: /research/
 
   # - title: "Blog Posts"
