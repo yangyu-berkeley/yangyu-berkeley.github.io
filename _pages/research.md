@@ -9,10 +9,11 @@ author_profile: true
 
  My researches are mainly around developing <b> adaptive and scalable </b> algorithms for the control and optimization of large-scale dynamic networked systems arising from smart buildings, smart grids and cyber physical systems. 
 My researches have stretched various theories and techniques, in particular,  
-  ..* Decentralize convex or nonconvex optimization, decentralized decision-making </p></li>
-   ..* Event-based optimization </p></li>
+  ..* Decentralize convex or nonconvex optimization, decentralized decision-making 
+   ..* Event-based optimization 
   ..* Stochastic optimization, Markov decision process, reinforcement learning 
  ..* Data-driven analysis and control. 
+ abs
 
 
  I also have strong interest in <b>game theory (noncooperative game, coalition game), transactive energy or transactive control and market design mechanisms </b>with their application to build a flexible, adaptive, reliable and sustainable energy system.
