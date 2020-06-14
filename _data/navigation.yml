@@ -1,11 +1,10 @@
 # main links links
 main:
-  #- title: "Publication"
-  - title: "Talks"
+  - title: "Publication"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/
+   - title: "Talks"
+     url: /cv/
 
   - title: "Research"
     url: /research/
