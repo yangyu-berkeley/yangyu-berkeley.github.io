@@ -7,8 +7,8 @@ main:
     # url: /terms/
 
   - title: "Research"
-  url: /terms/
-   # url: /research/
+    #url: /terms/
+    url: /research/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
