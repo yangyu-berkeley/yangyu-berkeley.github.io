@@ -5,6 +5,9 @@ main:
 
    #- title: "Talks"
     # url: /talk/
+    
+       - title: "Contact2"
+      url: /contact/
 
   - title: "Research"
     url: /research/
@@ -18,5 +21,4 @@ main:
   - title: "Contact"
     url: /contact/
     
-   - title: "Teaching"
-      url: /contact/
+
