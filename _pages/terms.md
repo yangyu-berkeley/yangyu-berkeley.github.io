@@ -1,7 +1,11 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /terms/
+  - /terms.html
 ---
 
 {% include base_path %}
