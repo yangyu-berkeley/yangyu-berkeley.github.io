@@ -20,7 +20,7 @@ To address such issude, we develop a fair payoff allocation mechanism  represent
 
 * Selling Renewable Uitlization Targets to Consumers via a Cloud Energy Storage Model
 <p align="center">
-	<img src='/images/B2C.png' width="400">	
+	<img src='/images/B2C.png' width="600">	
 </p>
 
 For the second sharing paradigm that an energy storage operator (ESO) invests blocks of ES resource to gain profit by providing energy storage service to its consumers, we have designed a novel cloud energy storage model (CES). Similar to the cloud computing, a novel CES model by allowing the ESO to sell renewable integration service instead of renting ES capacity to its consumers. The proposed CES model adopts a socio-economic communication framework by allowing both the ESO and its consumers to maximize their monetary value. One innovation is that we designed a quadratic price model for the ESO to charge its consumers by the required renewable integration targets. Differing from most existing CES models sound viable but are not optimistic for application due to the low sharing efficiency, i.e., both the ESO and its consumers can not gain favorable value from the ES sharing market, the proposed CES model admits an equilibrium and demonstrates near optimal social benefits (efficiency). Notably, this project can work as an example on how market design can shaping the efficiency of resource sharing in a competitive paradigm. 
