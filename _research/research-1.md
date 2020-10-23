@@ -20,7 +20,7 @@ To address such issude, we develop a fair payoff allocation mechanism  represent
 
 * Selling Renewable Uitlization Targets to Consumers via a Cloud Energy Storage Model
 <p align="center">
-	<img src='/images/B2C_ES.png', width="400">
+	<img src='/images/B2C_ES.png' width="400">
 	<p align="center"> Fig. 2. The platform of selling renewable utilization targets (RUTs) to building consumers via cloud energy storage model. </p>
 </p>
 
