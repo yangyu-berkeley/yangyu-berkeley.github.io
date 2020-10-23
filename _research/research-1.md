@@ -10,7 +10,7 @@ The prosperity of sharing economy suggests its capability to bring capital-inten
 
 * Optimal Sharing and Fair Cost Allocation of Community Energy Storage
 <p align="center">
-	<img src='/images/C2C.png',  width="600">
+	<img src='/images/C2C.png' width="600">
 	
 </p>
 
