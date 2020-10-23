@@ -1,11 +1,12 @@
 ---
-title: "Optimal Control Via Neural Network: A Convex Approach"
-excerpt: "Deep neural networks have proven to be successful in many identification tasks, however, from the model-based control perspective, these networks are difficult to work with because they are typically non-linear and non-convex. In this work, we bridge the gap between model accuracy and control tractability faced by neural networks, by explicitly constructing input convex neural networks (ICNN). It leads to significant energy savings for building HVAC management. "
+title: "Adaptive and Scalable Control of Buildings' HVAC System"
+excerpt: "Buildings, especially the heating, ventilation and air-conditioning systems, accounts for a large proportion of energy consumption. How to improve its efficiency is a critical issue, which relies a computationally efficient control method for the operation of HVAC system to improve energy efficiency while providing comfortable indoor environment. "
 collection: research
 ---
 <p>&nbsp;</p>
 
-Control of complex systems involves both system identification and controller design. Deep neural networks have proven to be successful in many identification tasks, however, from model-based control perspective, these networks are difficult to work with because they are typically non-linear and non-convex. Therefore many systems are still identified and controlled based on simple linear models despite their poor representation capability. In this work, we bridge the gap between model accuracy and control tractability faced by neural networks, by explicitly constructing networks that are convex with respect to their inputs. 
+To facilitate energy-efficient buildings, three challenges are required to address regarding the control and optimization of HVAC systems: i) support the uncertain thermal demand of occupants; ii) overcome computational challenge at coordinating zone cooling demand and interactions, especially commercial HVAC system; iii) Lack indoor air quality (IAQ) management. To address such challenges, we have applied reinforcement learning (RL) and decentralized optimization techniques to achieve adaptive and scalable control HVAC systems for saving energy and providing an enhanced indoor environment. 
+
 <p align="center">
 	<img src='/images/research/architecture.png'>
 </p>
