@@ -28,5 +28,5 @@ For the second sharing paradigm that an energy storage operator (ESO) invests bl
 
 
 ## Reference:
-
-[1] Yu Yang, Guoqiang Hu, Costas J. Spanos, "Selling Renewable Uitlization Targets to Consumers via a Cloud Energy Storage Model," under submission. 
+[1] Yu Yang, Guoqiang Hu, Costas J. Spanos, "Optimal Sharing and Fair Cost Allocation of Community Energy Storage," under submission. 
+[2] Yu Yang, Guoqiang Hu, Costas J. Spanos, "Selling Renewable Uitlization Targets to Consumers via a Cloud Energy Storage Model," under submission. 
