@@ -5,7 +5,10 @@ collection: research
 ---
 <p>&nbsp;</p>
 
-An energy system is more than a physical infrastructure: it connects millions of participants with different roles and objectives. Analyzing the individual objectives of these participants and looping their behaviors into the system design is of great importance, especially when these participants are primarily self-interested.
+Energy storage (ES) is one of the critical technologies to enable energy system transition, especially the integration of the renewable generation. Whereas the high capital cost defers its penetration into energy system. The justification of the ES capital cost relies on well-designed ES business models that can harness the maximum value for the stakeholders involved. 
+
+The prosperity of sharing economy suggests its capability to bring capital-intensive ES resources to energy system through sharing. There are generally two sharing paradigms: i) multiple users cooperatively to invest and use a common-owned ES; ii) An energy storage operator (ESO) invests blocks of ES to gain profit by providing energy storage service to its consumers. However, the successful exertion relies on an appropriate market mechanism that can "allocate" the payoff among the different stakeholders involved, which is challenging due to multi-step operation pattern of the ES resource.
+
 <p align="center">
 	<img src='/images/research/game.png'>
 </p>
