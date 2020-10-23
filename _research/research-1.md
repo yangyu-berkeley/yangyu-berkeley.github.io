@@ -30,4 +30,4 @@ For the second sharing paradigm that an energy storage operator (ESO) invests bl
 
 ## Reference:
 
-[1] Yuanyuan Shi, Baosen Zhang, ["Learning in Cournot Games with Limited Information Feedback''](https://arxiv.org/abs/1906.06612), arXiv Preprint. 
+[1] Yu Yang, Guoqiang Hu, Costas J. Spanos, "Selling Renewable Uitlization Targets to Consumers via a Cloud Energy Storage Model," under submission. 
