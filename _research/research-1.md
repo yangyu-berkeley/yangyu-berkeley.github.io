@@ -1,5 +1,5 @@
 ---
-title: "Bring Energy Storage (ES) and Renewable Energy (RE) to Energy System through Market Design"
+title: "Bring Energy Storage (ES) and Renewable Energy (RE) to the Grid through Market Design"
 excerpt: "Energy storage (ES) is one of the critical technologies to enable energy system transition, especially the integration of the renewable generation. Whereas the high capital cost defers its penetration into energy system. The justification of the ES capital cost relies on well-designed ES business models that can harness the maximum value for the stakeholders involved. "
 collection: research
 ---
