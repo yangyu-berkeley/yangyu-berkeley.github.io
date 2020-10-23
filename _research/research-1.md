@@ -1,6 +1,6 @@
 ---
-title: "Energy Storage Models for Singapore Context"
-excerpt: "In this work, we study the long-run dynamics of learning agents in Cournot game. Cournot game is the underlying market model for many demand response programs in electricity markets, where providers bid their available quantity, the service price is set by the total supply and each provider gets paid accordingly. "
+title: "Bring Energy Storage (ES) and Renewable Energy (RE) to Energy System through Market Design"
+excerpt: "Energy storage (ES) is one of the critical technologies to enable energy system transition, especially the integration of the renewable generation. Whereas the high capital cost defers its penetration into energy system. The justification of the ES capital cost relies on well-designed ES business models that can harness the maximum value for the stakeholders involved. "
 collection: research
 ---
 <p>&nbsp;</p>
