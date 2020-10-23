@@ -21,7 +21,6 @@ To address such issude, we develop a fair payoff allocation mechanism  represent
 * Selling Renewable Integration Service to Consumers via a Cloud Energy Storage Model
 <p align="center">
 	<img src='/images/B2C_ES.png', width="400" height="300">
-	
 	<p align="center"> Fig. 2. The platform of selling renewable integration service to building consumers via cloud energy storage model. </p>
 </p>
 
